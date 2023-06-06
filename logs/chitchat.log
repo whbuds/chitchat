@@ -1,0 +1,7 @@
+WARNING2023/06/06 09:28:49 helper.go:75: <nil> Failed to get cookie
+ERROR2023/06/06 09:30:00 helper.go:70: sql: no rows in result set Cannot find user
+ERROR2023/06/06 09:33:00 helper.go:70: sql: no rows in result set Cannot find user
+ERROR2023/06/06 09:35:13 helper.go:70: sql: no rows in result set Cannot find user
+ERROR2023/06/06 09:39:05 helper.go:70: sql: no rows in result set Cannot find user
+ERROR2023/06/06 09:45:47 helper.go:70: sql: no rows in result set Cannot find user
+WARNING2023/06/06 14:46:30 helper.go:75: <nil> Failed to get cookie
